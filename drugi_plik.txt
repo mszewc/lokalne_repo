@@ -1,1 +1,3 @@
 to jest drugi tekst hurra
+
+zmieniam ci¹gle zmieniam
